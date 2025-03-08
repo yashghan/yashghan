@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full time software engineer professional at Jio Platforms Limited, passionate about exploring the realms of coding, data structures and algorithms, and building robust applications.
+I am a full time software engineer professional at Jio Platforms Limited, passionate about exploring the realms of coding, data structures and algorithms, and building robust applications and scalable applications. I tend to build applications using Low Level Design patterns and consider all the possible scenarios of High Level Design to ensure Consistency, Availability and Partition Tolerance involving strong infrastructure and architecture.
 
 
 ## 🌐 Socials:
